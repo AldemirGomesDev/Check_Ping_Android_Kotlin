@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ping AsyncTask</string>
+    <string name="testar_ping">Testar Ping</string>
+</resources>
